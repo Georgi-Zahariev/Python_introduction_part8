@@ -1,0 +1,4 @@
+What's the result of 3 multiplied by 4 plus 2 ?
+What's the result of 12 divided by 2 minus 3 ?
+What's the result of 10 multiplied by 5 minus 6 ?
+What's the result of 15 divided by 3 plus 4 ?
